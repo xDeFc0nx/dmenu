@@ -1,4 +1,4 @@
-# Luke's dmenu
+# defOS dmenu
 
 Extra stuff added to vanilla dmenu:
 
